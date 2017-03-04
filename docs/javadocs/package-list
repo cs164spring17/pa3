@@ -1,0 +1,8 @@
+atrai
+atrai.antlr
+atrai.core
+atrai.interpreters.FUN
+atrai.interpreters.LET
+atrai.interpreters.LETREC
+atrai.interpreters.TYPEDFUN
+atrai.interpreters.common
